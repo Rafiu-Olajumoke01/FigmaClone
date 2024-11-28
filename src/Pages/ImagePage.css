@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.image_page img {
+   margin: auto;
+}
+
+@media (max-width: 570px) {
+    /* Adjust image size and center alignment */
+    .image_page img {
+        margin-top: 5rem;
+    }
+}

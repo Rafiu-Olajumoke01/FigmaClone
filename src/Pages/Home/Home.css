@@ -1,0 +1,50 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.banner {
+    background-image: url("./../../Images/Group\ 4027\ \(1\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner_text {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 3em;
+    text-align: center;
+}
+
+
+.btns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.btns a{
+    margin: 0 10px;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.btns a:hover {
+    background-color: #f3f3f3;
+}
+
+.btn1 {
+    background-color: #f3f3f3;
+}
+
+.btn2 {
+    border: 2px solid #f3f3f3;
+}
