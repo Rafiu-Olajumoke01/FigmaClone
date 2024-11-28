@@ -36,7 +36,6 @@ function Navbar() {
                                 <Link className="nav-link" href="#">Hosting</Link>
                             </li>
 
-
                             <li className="nav-item">
                                 <Link className="nav-link" href="#">ProHosting</Link>
                             </li>
