@@ -26,7 +26,9 @@ function Home() {
 
       <About />
 
-      
+      <div>
+        <Footer />
+      </div>
     </div>
   )
 }

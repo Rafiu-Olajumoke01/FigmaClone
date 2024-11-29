@@ -13,4 +13,8 @@
     .image_page img {
         margin-top: 5rem;
     }
+
+    .image_page img{
+        display: none;
+    }
 }
